@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "header_texts",
+  "info": {
+    "singularName": "header-text",
+    "pluralName": "header-texts",
+    "displayName": "header-text"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}

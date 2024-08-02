@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "linkedins",
+  "info": {
+    "singularName": "linkedin",
+    "pluralName": "linkedins",
+    "displayName": "linkedin"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    }
+  }
+}
